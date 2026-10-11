@@ -16,7 +16,7 @@
 
 1. [2026-10-09 – Log 1 -  (8/10/26)](#2026-10-09-log-1---81026)
 2. [2026-10-11 – Log 2](#2026-10-11-log-2)
-3. [2026-10-11 – Work session](#2026-10-11-work-session)
+3. [2026-10-11 – Work session - 3](#2026-10-11-work-session---3)
 
 ## Design
 
@@ -67,8 +67,21 @@ tl;dr - did half of the routing. The rest half is left. Connected main routes. F
 
 [Timelapse](https://lookout.hackclub.com/api/media/4e14a8e0-4116-453e-9c92-0cfe7dbf39b6/video.mp4)
 
-### 2026-10-11 – Work session
+### 2026-10-11 – Work session - 3
 
 **2.93h**
+
+Work session - 3
+
+This is me , from the past. As you noticed before, the reel was from the future. These contain the timelapses from the past.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/FFpVYJGAQwzaBOsKrmKyHKKTZKhvPwY8/8d16a88007f56b3b87b268a8e6aed65f69a69ca385320d7022ddc4fba0a3531e.png)
+
+Routed everything on F.cu - pretty cool, right?
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/FFpVYJGAQwzaBOsKrmKyHKKTZKhvPwY8/fa52bdd4a38741beb9ba15074e7d181f72ba9d17f42c0d86c34386dd34180a22.png)
+Took me a long time to get this.
+
+tl;dr - finished everything. Only thing left is the artworks.
 
 [Timelapse](https://lookout.hackclub.com/api/media/3a00c528-5c3d-4be2-b266-3474a80866b7/video.mp4)
