@@ -16,7 +16,7 @@ Starbie is designed to sit on your desk, show its personality on a small display
 
 The board includes a microcontroller, display, motion sensor, and environmental sensor in a compact PCB design. It is USB powered and built around beginner-friendly through-hole soldering for the add-on components. <br> 
 
-<h2> Tutorial Link -> </h2>  https://github.com/SharKingStudios/Starbie/blob/main/README.md 
+<h3> Tutorial Link -> </h3>  https://github.com/SharKingStudios/Starbie/blob/main/README.md <br> <br> 
 This is my github repo for HalfLife-HackClub program. Look into the tutorial link for more information. <br >
 This repo contains my devlogs, required files, and the BOM with the Starbie.ino. <br>
 
